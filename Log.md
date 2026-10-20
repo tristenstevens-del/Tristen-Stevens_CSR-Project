@@ -78,9 +78,9 @@ verification procedures, corrections, and research decisions.
 
 **Claim:**  The Coca-Cola Company officially claims its purpose is to refresh the world and make a difference, and its vision is to craft loved, sustainable brands that refresh consumers in body and spirit.Core Claims & Brand Messages. Physical & Mental Refreshment: The company states it aims to offer drinks that refresh people in "body & spirit" and foster a sense of connection through consumer choice. Sustainability & Circular Economy: Under initiatives like its "World Without Waste" strategy, Coca-Cola claims it is working to make packaging more circular, design out waste, and improve water stewardship and climate impacts.Community & Social Impact: The brand claims to support local communities, foster diversity, equity, and inclusion (DE&I), and invest in economic empowerment through its business and The Coca Cola Foundation.
 
-**Source:** SOURCE-001
+**Source:** Wikipedia
 
-**Evidence Location:**  
+**Evidence Location:** https://www.wikipedia.org
 
 **Assessment:**  
 SUPPORTED / PARTIALLY SUPPORTED / CONTRADICTED / INSUFFICIENT EVIDENCE / UNVERIFIED
